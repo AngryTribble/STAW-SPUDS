@@ -11790,7 +11790,7 @@
       "agility": 0,
       "hull": 10,
       "shields": 10,
-      "cost": 82,
+      "cost": 52,
       "text": "Instead of making a normal attack with your Primary Weapon, you may fire at up to 4 different ships at Range 1-2 with 4 attack dice against each ship. If you do this, spend 1 Drone Token for each of these attacks after the first.",
       "unique": true,
       "factions": [
