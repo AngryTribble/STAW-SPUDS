@@ -5665,7 +5665,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 2,
-      "cost": 22,
+      "cost": 17,
       "text": "When attacking, during the Modify Attack Dice step, you may disable one of your Active Shields to re-roll up to 2 of your attack dice.",
       "unique": true,
       "factions": [
@@ -5735,7 +5735,7 @@
       "agility": 1,
       "hull": 6,
       "shields": 3,
-      "cost": 28,
+      "cost": 24,
       "text": "When defending, during the Modify Defense Dice step, you may discard a blue  [target-lock] Token from beside your ship to re-roll all of your defense dice.",
       "unique": true,
       "factions": [
@@ -5768,7 +5768,7 @@
       "agility": 2,
       "hull": 6,
       "shields": 4,
-      "cost": 30,
+      "cost": 29,
       "text": "During the Activation Phase, if your ship is Cloaked and performs the [sensor-echo] Action, you may flip your [cloak] Token over to its red side and immediately perform an additional [sensor-echo] Action as a free Action.",
       "unique": true,
       "factions": [
@@ -5800,7 +5800,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 3,
-      "cost": 22,
+      "cost": 18,
       "text": "When defending, during the Roll Defence Dice step, if your ship is not Cloaked, you may roll +2 defence dice. If you do so place an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -5872,7 +5872,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 26,
+      "cost": 24,
       "text": "If your ship is within Range 1 of a friendly ship, each time it defends, it rolls +1 defense die. This ability may only be used for 1 friendly ship per round.",
       "unique": true,
       "factions": [
@@ -5902,7 +5902,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 2,
-      "cost": 20,
+      "cost": 14,
       "text": "When attacking, during the Modify Attack Dice step, you may spend your [battlestations] Token to convert one of your [hit] results into a [crit] result.",
       "unique": true,
       "factions": [
@@ -5934,7 +5934,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 28,
+      "cost": 24,
       "text": "When defending, During the Modify Defense dice step, you may re-roll one of your defense dice. If you do so, place an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -5981,7 +5981,7 @@
       "set": [
         "72270p"
       ],
-      "name": "Kohlars Battle Cruiser",
+      "name": "Kohlar's Battle Cruiser",
       "class": "D7 Class",
       "actions": [
         "evade",
@@ -5999,7 +5999,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 3,
-      "cost": 20,
+      "cost": 15,
       "text": "During the End Phase, if your [cloak] Token is on its red side, you may flip it back to its green side. If you do so place an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -6031,7 +6031,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 2,
-      "cost": 18,
+      "cost": 14,
       "text": "When defending, if your ship is Cloaked, you may re-roll up to 2 of your defense dice.",
       "unique": true,
       "factions": [
@@ -6264,7 +6264,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 3,
-      "cost": 22,
+      "cost": 18,
       "text": "<b>ACTION:</b> Once this round, if you inflict a critical damage on an enemy ship's Hull, you may search the Damaage Deck for a \"Direct Hit\" damage card and place it beside the enemy's Ship Card. Shuffle the Damage Deck when you are done.",
       "unique": true,
       "factions": [
@@ -6299,7 +6299,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 2,
-      "cost": 18,
+      "cost": 14,
       "text": "When attacking with your Primary Weapon, if your ship is not Cloaked, during the Declare Target step, you may perform a 1 [straight] Maneuver before choosing an enemy ship to attack.",
       "unique": true,
       "factions": [
@@ -6398,7 +6398,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 28,
+      "cost": 24,
       "text": "When defending, during the Compare Results step, you may discard 1 of your non-disabled Upgrades to cancel 1 [hit] or [crit] result.",
       "unique": true,
       "factions": [
@@ -6466,7 +6466,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 2,
-      "cost": 22,
+      "cost": 17,
       "text": "When firing a Photon Torpedo Upgrade, place 1 less Time Token on that Upgrade.",
       "unique": true,
       "factions": [
@@ -6498,7 +6498,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 1,
-      "cost": 20,
+      "cost": 15,
       "text": "",
       "unique": false,
       "factions": [
@@ -6528,7 +6528,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 0,
-      "cost": 14,
+      "cost": 12,
       "text": "While there is a [scan] Token beside your ship, you cannot be targeted by any [talent] Upgrades and you roll +1 defense die against all attacks made with [weapon] Upgrades.",
       "unique": true,
       "factions": [
@@ -6560,7 +6560,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 3,
-      "cost": 24,
+      "cost": 21,
       "text": "When attacking if you do not hit the defending ship, place an [evade] Token beside your ship.",
       "unique": true,
       "factions": [
@@ -6625,7 +6625,7 @@
       "agility": 0,
       "hull": 8,
       "shields": 0,
-      "cost": 30,
+      "cost": 29,
       "text": "When defending, during the Roll Defence Dice step, you may roll 1 defence die for each [hit] or [crit] result rolled by the attacking ship. If you do so, Place an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -6656,7 +6656,7 @@
       "agility": 0,
       "hull": 8,
       "shields": 0,
-      "cost": 28,
+      "cost": 26,
       "text": "",
       "unique": false,
       "factions": [
@@ -6685,7 +6685,7 @@
       "agility": 0,
       "hull": 1,
       "shields": 1,
-      "cost": 24,
+      "cost": 21,
       "skill": 6,
       "text": "Attack Squadron Tokens: 5\n\nIf you attack during a round in which you performed a ([come-about]) Come About Maneuver, during the Modify Attack Dice step, you may re-roll all of your blank results.",
       "unique": true,
@@ -6714,7 +6714,7 @@
       "agility": 0,
       "hull": 1,
       "shields": 1,
-      "cost": 20,
+      "cost": 17,
       "skill": 5,
       "text": "Attack Squadron Tokens: 4",
       "unique": false,
@@ -6748,7 +6748,7 @@
       "agility": 2,
       "hull": 6,
       "shields": 4,
-      "cost": 30,
+      "cost": 29,
       "text": "<b>ACTION:</b> If your ship is not Cloaked, when attacking with your Primary Weapon at Range 1 this round, gain +1 attack die and roll -1 defence die.",
       "unique": true,
       "factions": [
@@ -6845,7 +6845,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 3,
-      "cost": 20,
+      "cost": 15,
       "text": "When defending during the Roll Defense Dice step, you may disable one of your Active Shields to gain +2 defence dice for that attack.",
       "unique": true,
       "factions": [
@@ -6876,7 +6876,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 2,
-      "cost": 18,
+      "cost": 12,
       "text": "",
       "unique": false,
       "factions": [
@@ -7028,7 +7028,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 3,
-      "cost": 22,
+      "cost": 20,
       "text": "You may perform an [evade] or a [scan] Action while there is an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -7122,7 +7122,7 @@
       "agility": 3,
       "hull": 2,
       "shields": 2,
-      "cost": 16,
+      "cost": 12,
       "text": "During the Activation Phase you may perform a [scan] Action as a free Action. If you do so place an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -7266,7 +7266,7 @@
       "agility": 2,
       "hull": 6,
       "shields": 4,
-      "cost": 30,
+      "cost": 29,
       "text": "If you initiate an attack while cloaked, add +1 attack die.",
       "unique": true,
       "factions": [
@@ -7339,7 +7339,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 28,
+      "cost": 24,
       "text": "Any ship attacking you at Range 1 rolls 1 less attack die.",
       "unique": true,
       "factions": [
@@ -7527,7 +7527,7 @@
       "agility": 2,
       "hull": 6,
       "shields": 3,
-      "cost": 30,
+      "cost": 27,
       "text": "If you perform a Green Maneuver, add +1 attack die for the remainder of this round.",
       "unique": true,
       "factions": [
@@ -7561,7 +7561,7 @@
       "agility": 2,
       "hull": 2,
       "shields": 2,
-      "cost": 14,
+      "cost": 10,
       "text": "<b>ACTION (once/game):</b> Every ship at Range 1 sustains 1 damage (including this ship). During the Planning Phase, this ship must choose a \"1\" Maneuver (forward, bank or turn) for the rest of the game.",
       "unique": true,
       "factions": [
@@ -7630,7 +7630,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 2,
-      "cost": 18,
+      "cost": 14,
       "text": "Each time you defend against a ship at Range 1, roll 1 extra defense die.",
       "unique": true,
       "factions": [
@@ -7703,7 +7703,7 @@
       "agility": 1,
       "hull": 6,
       "shields": 3,
-      "cost": 30,
+      "cost": 28,
       "text": "<b>ACTION:</b> Target a ship within your firing arc at Range 1-2 and roll 3 attack dice. For each [hit] result disable 1 of that ship's Shields. If possible, you may play Klingon Boarding Party as a free action this turn. ",
       "unique": true,
       "factions": [
@@ -8030,7 +8030,7 @@
       "agility": 0,
       "hull": 8,
       "shields": 7,
-      "cost": 42,
+      "cost": 41,
       "text": "\r\n      ",
       "unique": false,
       "factions": [
@@ -8066,7 +8066,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 3,
-      "cost": 22,
+      "cost": 18,
       "text": "If you initiate an attack while cloaked, you may choose any number of your attack dice and re-roll them once.",
       "unique": true,
       "factions": [
@@ -8140,7 +8140,7 @@
       "agility": 2,
       "hull": 6,
       "shields": 4,
-      "cost": 30,
+      "cost": 29,
       "text": "Each time you attack, you may re-roll 1 of your attack dice for every damage card assigned to your ship.",
       "unique": true,
       "factions": [
@@ -8255,7 +8255,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 3,
-      "cost": 24,
+      "cost": 21,
       "text": "Any ship attacking you at Range 3 rolls 1 less attack die.",
       "unique": true,
       "factions": [
@@ -8328,7 +8328,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 0,
-      "cost": 14,
+      "cost": 12,
       "text": "You may use the [cloak] Action even if you have no Active Shields. Whenever you choose the [cloak] Action, roll 1 attack die. On a [battlestations] result, your Hull sustains 1 Damage.",
       "unique": true,
       "factions": [
@@ -8361,7 +8361,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 0,
-      "cost": 14,
+      "cost": 9,
       "text": "",
       "unique": false,
       "factions": [
@@ -8433,7 +8433,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 26,
+      "cost": 24,
       "text": "Each time you defend while Cloaked, roll +1 defense die.",
       "unique": true,
       "factions": [
@@ -8662,7 +8662,7 @@
       "agility": 3,
       "hull": 2,
       "shields": 2,
-      "cost": 16,
+      "cost": 12,
       "text": "After you move, you may perform an [evade] Action as a free Action. If you do so, you cannot attack during this round.",
       "unique": true,
       "factions": [
@@ -8877,7 +8877,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 2,
-      "cost": 18,
+      "cost": 13,
       "text": "Each time you defend, you may convert up to 2 of your [battlestations] results into [evade] results.",
       "unique": true,
       "factions": [
@@ -8913,7 +8913,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 2,
-      "cost": 18,
+      "cost": 14,
       "text": "When initiating an attack while Cloaked, you may fire Plasma Torpedoes without needing a Target Lock.",
       "unique": true,
       "factions": [
@@ -8949,7 +8949,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 1,
-      "cost": 16,
+      "cost": 11,
       "text": "",
       "unique": false,
       "factions": [
@@ -9333,7 +9333,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 3,
-      "cost": 20,
+      "cost": 15,
       "text": "When attacking a ship with a Scan token beside it with your Primary Weapon, roll an additional +2 attack dice.",
       "unique": true,
       "factions": [
@@ -9371,7 +9371,7 @@
       "agility": 2,
       "hull": 5,
       "shields": 6,
-      "cost": 38,
+      "cost": 34,
       "text": "When you attack with your Primary Weapon, if you inflict at least 3 damage, place an Auxiliary Power Token beside the target ship.",
       "unique": true,
       "factions": [
@@ -9410,7 +9410,7 @@
       "agility": 2,
       "hull": 5,
       "shields": 5,
-      "cost": 36,
+      "cost": 32,
       "text": "",
       "unique": false,
       "factions": [
@@ -9444,7 +9444,7 @@
       "agility": 2,
       "hull": 2,
       "shields": 2,
-      "cost": 16,
+      "cost": 10,
       "text": "You may perform the Action listed on the \"Energy Web\" Upgrade card as a free Action.",
       "unique": true,
       "factions": [
@@ -9477,7 +9477,7 @@
       "agility": 2,
       "hull": 2,
       "shields": 1,
-      "cost": 14,
+      "cost": 7,
       "text": "",
       "unique": false,
       "factions": [
@@ -9513,7 +9513,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 4,
-      "cost": 26,
+      "cost": 24,
       "text": "Whenever you initiate an attack against an enemy ship at Range 3, gain +1 attack die.",
       "unique": true,
       "factions": [
@@ -9729,7 +9729,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 4,
-      "cost": 22,
+      "cost": 18,
       "text": "When attacking with your Primary Weapon, if you inflict at least 1 Critical Damage to the enemy ship's hull, that ship must also discard 1 [crew] Upgrade (of its choice).",
       "unique": true,
       "factions": [
@@ -9800,7 +9800,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 3,
-      "cost": 24,
+      "cost": 21,
       "text": "You can perform a Red Maneuver while there is an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -9872,7 +9872,7 @@
       "agility": 3,
       "hull": 3,
       "shields": 3,
-      "cost": 22,
+      "cost": 18,
       "text": "<b>ACTION:</b> Disable up to 2 of your [crew] Upgrades and add +1 attack die to each of your attacks this round for each [crew] Upgrade you disabled with this Action.",
       "unique": true,
       "factions": [
@@ -9943,7 +9943,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 2,
-      "cost": 18,
+      "cost": 14,
       "text": "While you are Cloaked, after you perform a Green Maneuver, you may perform a [sensor-echo] Action as a free Action.",
       "unique": true,
       "factions": [
@@ -9978,7 +9978,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 1,
-      "cost": 16,
+      "cost": 11,
       "text": "",
       "unique": false,
       "factions": [
@@ -10306,7 +10306,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 3,
-      "cost": 20,
+      "cost": 16,
       "text": "Whenever you initiate an attack, you may disable one of your non-disabled [tech] Upgrades to add +1 attack die.",
       "unique": true,
       "factions": [
@@ -10341,7 +10341,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 2,
-      "cost": 18,
+      "cost": 14,
       "text": "",
       "unique": false,
       "factions": [
@@ -10477,7 +10477,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 3,
-      "cost": 20,
+      "cost": 16,
       "text": "Whenever you attack an enemy ship at Range 3 with your Primary Weapon, if there is a [scan] Token beside your ship, you gain +1 attack die for that attack.",
       "unique": true,
       "factions": [
@@ -10761,7 +10761,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 2,
-      "cost": 26,
+      "cost": 22,
       "text": "",
       "unique": false,
       "factions": [
@@ -10940,7 +10940,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 4,
-      "cost": 26,
+      "cost": 21,
       "text": "After you move, if you are within Range 1 of a friendly ship, you may immediately perform one of the Actions listed on your Action Bar as a free Action.",
       "unique": true,
       "factions": [
@@ -10978,7 +10978,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 2,
-      "cost": 24,
+      "cost": 19,
       "text": "",
       "unique": false,
       "factions": [
@@ -11015,7 +11015,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 26,
+      "cost": 23,
       "text": "If you performed a Green Maneuver this round, during the Roll Attack Dice step of the Combat Phase, roll +1 attack die.",
       "unique": true,
       "factions": [
@@ -11087,7 +11087,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 4,
-      "cost": 26,
+      "cost": 24,
       "text": "Each time you defend, during the Modify Defense Dice step of the Combat Phase, you may add 1 [evade] result to your roll.  If you do so, place 1 Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -11124,7 +11124,7 @@
       "agility": 3,
       "hull": 3,
       "shields": 3,
-      "cost": 22,
+      "cost": 18,
       "text": "During the Modify Defense Dice step of the Combat Phase, you may disable up to 3 of your Upgrades to add 1 [evade] result to your roll for each Upgrade you disabled with this card.",
       "unique": true,
       "factions": [
@@ -11274,7 +11274,7 @@
       "agility": 2,
       "hull": 6,
       "shields": 4,
-      "cost": 30,
+      "cost": 29,
       "text": "During the Roll Attack Dice step of the Combat Phase, you may roll +1 attack die.  If you do so, suffer 1 damage to your Hull.",
       "unique": true,
       "factions": [
@@ -11499,7 +11499,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 3,
-      "cost": 22,
+      "cost": 18,
       "text": "When you initiate an attack at Range 1, while Cloaked, your opponent rolls -1 defense die. \n\nYou cannot deploy this card to the same fleet as \"Assimilated Vessel 80279.\"",
       "unique": true,
       "factions": [
@@ -11572,7 +11572,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 3,
-      "cost": 22,
+      "cost": 18,
       "text": "If you attack with Torpedoes while Cloaked, you do not flip your [cloak] Token over to its red side.",
       "unique": true,
       "factions": [
@@ -11608,7 +11608,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 3,
-      "cost": 24,
+      "cost": 21,
       "text": "Each time you suffer damage from an attack, you may place an Auxiliary Power Token beside your ship to reduce the amount of damage from that attack by 1.",
       "unique": true,
       "factions": [
@@ -11646,7 +11646,7 @@
       "agility": 2,
       "hull": 7,
       "shields": 4,
-      "cost": 38,
+      "cost": 34,
       "text": "After you attack while Cloaked, you may place an Auxiliary Power Token beside your ship to keep your [cloak] Token from flipping to its red side.",
       "unique": true,
       "factions": [
@@ -11753,7 +11753,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 2,
-      "cost": 22,
+      "cost": 16,
       "text": "<b>( ERRATA )</b>",
       "unique": false,
       "factions": [
@@ -11898,7 +11898,7 @@
       "agility": 2,
       "hull": 5,
       "shields": 3,
-      "cost": 26,
+      "cost": 22,
       "text": "<b>ACTION:</b> Target a ship at Range 1 and force that ship to discard 1 of its Active Shield Tokens.  Place an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -12221,7 +12221,7 @@
       "agility": 1,
       "hull": 7,
       "shields": 3,
-      "cost": 32,
+      "cost": 31,
       "text": "Instead of making a normal attack with your Primary Weapon,  you may fire in any direction at up to 2 enemy ships at Range 1 with 4 attack dice against each ship.",
       "unique": true,
       "factions": [
@@ -12257,7 +12257,7 @@
       "agility": 1,
       "hull": 7,
       "shields": 2,
-      "cost": 30,
+      "cost": 28,
       "text": "",
       "unique": false,
       "factions": [
@@ -12294,7 +12294,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 4,
-      "cost": 26,
+      "cost": 23,
       "text": "After you move, you may perform a [sensor-echo] Action with the 1 [forward] Maneuver as a free Action, even if you are not Cloaked.",
       "unique": true,
       "factions": [
@@ -12432,7 +12432,7 @@
       "agility": 3,
       "hull": 3,
       "shields": 3,
-      "cost": 24,
+      "cost": 19,
       "text": "During the End Phase of each round, repair 1 damage to your Hull or Shields (your choice).  This ship may only be assigned Gareb or a Romulan Drone Pilot as its Captain.",
       "unique": true,
       "factions": [
@@ -12468,7 +12468,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 26,
+      "cost": 24,
       "text": "When attacking, you may convert 1 of your [crit] results into a [hit] result.  If you do so, you may then convert 1 of your blank results into a [hit] result.",
       "unique": true,
       "factions": [
@@ -12505,7 +12505,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 26,
+      "cost": 23,
       "text": "All friendly Kazon ships with a Hull value of 4 or less within Range 1-2 of this ship gain +1 defense die.",
       "unique": true,
       "factions": [
@@ -12542,7 +12542,7 @@
       "agility": 2,
       "hull": 6,
       "shields": 4,
-      "cost": 30,
+      "cost": 29,
       "text": "When attacking with your Primary Weapon while cloaked, gain +1 attack die for every other Romulan Ship in your fleet (max +4).",
       "unique": true,
       "factions": [
@@ -12613,7 +12613,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 4,
-      "cost": 22,
+      "cost": 18,
       "text": "When attacking with your Primary Weapon, if you inflict a Critical Damage to an enemy ship's hull, you may search the Damage Deck for a \"Structural Damage\" or a \"Weapons Malfunction\" card instead of drawing a random Damage Card.  Reshuffle the deck when you are done.",
       "unique": true,
       "factions": [
@@ -12720,7 +12720,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 3,
-      "cost": 22,
+      "cost": 20,
       "text": "When attacking a ship that you already have target locked, during the Roll Attack Dice step, gain +1 attack die.",
       "unique": true,
       "factions": [
@@ -12819,7 +12819,7 @@
       "agility": 3,
       "hull": 3,
       "shields": 0,
-      "cost": 16,
+      "cost": 14,
       "text": "During the Roll Attack Dice step, if there is an Auxiliary Power Token beside your ship, gain +2 attack dice when attacking with your Primary Weapon.",
       "unique": true,
       "factions": [
@@ -12854,7 +12854,7 @@
       "agility": 1,
       "hull": 6,
       "shields": 4,
-      "cost": 30,
+      "cost": 26,
       "text": "<b>ACTION:</b> Roll 3 defense dice.  For every [evade] result, place 1 [evade] Token beside your ship.",
       "unique": true,
       "factions": [
@@ -12961,7 +12961,7 @@
       "agility": 3,
       "hull": 3,
       "shields": 0,
-      "cost": 16,
+      "cost": 10,
       "text": "",
       "unique": false,
       "factions": [
@@ -12995,7 +12995,7 @@
       "agility": 1,
       "hull": 6,
       "shields": 3,
-      "cost": 28,
+      "cost": 23,
       "text": "",
       "unique": false,
       "factions": [
@@ -13066,7 +13066,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 3,
-      "cost": 22,
+      "cost": 18,
       "text": "While you are cloaked, if you initiate an attack at Range 1 with your Primary Weapon, gain +1 attack die for that attack.",
       "unique": true,
       "factions": [
@@ -13177,7 +13177,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 3,
-      "cost": 22,
+      "cost": 18,
       "text": "After performing a [sensor-echo] Action, you may Come About (reverse direction).  If you do so, place an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -13283,7 +13283,7 @@
       "agility": 1,
       "hull": 6,
       "shields": 3,
-      "cost": 28,
+      "cost": 24,
       "text": "When defending, during the Roll Attack Dice step, you may discard a Token from beside your ship ( [evade], [scan], or [battlestations] ) to force the attacking ship to roll 1 less attack die.",
       "unique": true,
       "factions": [
@@ -13315,7 +13315,7 @@
       "agility": 1,
       "hull": 6,
       "shields": 2,
-      "cost": 26,
+      "cost": 22,
       "text": "",
       "unique": false,
       "factions": [
@@ -13348,7 +13348,7 @@
       "agility": 2,
       "hull": 6,
       "shields": 4,
-      "cost": 30,
+      "cost": 27,
       "text": "When defending, you may re-roll 1 of your [battlestations] results. If your ship is cloaked, you may re-roll all of your [battlestations] results.",
       "unique": true,
       "factions": [
@@ -13448,7 +13448,7 @@
       "agility": 2,
       "hull": 5,
       "shields": 6,
-      "cost": 38,
+      "cost": 35,
       "text": "When defending, during the Compare Results step, you may cancel 1 [hit] result. If you do so, place an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -13481,7 +13481,7 @@
       "agility": 2,
       "hull": 5,
       "shields": 6,
-      "cost": 38,
+      "cost": 34,
       "text": "During the Deal Damage step, if you inflict 2 critical damage to an enemy ship's hull, you may immediately flip those damage cards face down and rotate the damaged ship's facing by 90 degrees (right or left).",
       "unique": true,
       "factions": [
@@ -13513,7 +13513,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 26,
+      "cost": 24,
       "text": "When defending, if your ship is not cloaked and there is a friendly ship within Range 1-2 of your ship, you may roll +1 defense die. If you do so, place an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -13545,7 +13545,7 @@
       "agility": 2,
       "hull": 4,
       "shields": 5,
-      "cost": 26,
+      "cost": 23,
       "text": "Each time you perform an Action or use an ability on any of your [tech] Upgrades, place 1 Mission Token on this card. During the Roll Attack Dice step, you may spend up to 2 of these tokens to gain +1 attack die for that attack for each token spent.",
       "unique": true,
       "factions": [
@@ -13673,7 +13673,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 2,
-      "cost": 20,
+      "cost": 14,
       "text": "During the Roll Attack Dice step, if there is a [battlestations] Token beside your ship, you may discard that Token to re-roll all of your attack dice.",
       "unique": true,
       "factions": [
@@ -13703,7 +13703,7 @@
       "agility": 2,
       "hull": 3,
       "shields": 1,
-      "cost": 18,
+      "cost": 12,
       "text": "",
       "unique": false,
       "factions": [
@@ -13866,7 +13866,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 26,
+      "cost": 23,
       "text": "When attacking a ship at Range 3, during the Roll Attack Dice step, gain +1 attack die for every friendly ship within Range 1 of your ship (max +2).",
       "unique": true,
       "factions": [
@@ -13928,7 +13928,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 4,
-      "cost": 22,
+      "cost": 19,
       "text": "After you perform a maneuver with a speed of 5 or greater, you may immediately perform an [evade] Action as a free Action.",
       "unique": true,
       "factions": [
@@ -13962,7 +13962,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 20,
+      "cost": 15,
       "text": "",
       "unique": false,
       "factions": [
@@ -14056,7 +14056,7 @@
       "agility": 1,
       "hull": 3,
       "shields": 3,
-      "cost": 22,
+      "cost": 18,
       "text": "<b>ACTION:</b> Perform a 2nd maneuver on your maneuver dial with a speed of 1 or 2. Place an Auxiliary Power Token beside your ship. You cannot attack this round.",
       "unique": true,
       "factions": [
@@ -14088,7 +14088,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 4,
-      "cost": 26,
+      "cost": 24,
       "text": "When defending, if you have a [scan] Token beside your ship, roll +1 defense die.",
       "unique": true,
       "factions": [
@@ -14118,7 +14118,7 @@
       "agility": 2,
       "hull": 2,
       "shields": 2,
-      "cost": 14,
+      "cost": 10,
       "text": "<b>ACTION:</b> If you are within Range 1-3 of at least 1 enemy ship, roll 3 defense dice. For every [evade] result, place 1 [evade] Token beside your ship. You cannot perform any free Actions this round.",
       "unique": true,
       "factions": [
@@ -14151,7 +14151,7 @@
       "agility": 2,
       "hull": 6,
       "shields": 4,
-      "cost": 30,
+      "cost": 29,
       "text": "After you perform a Green Maneuver, you may immediately perform a [scan] Action as a free Action.",
       "unique": true,
       "factions": [
@@ -14288,7 +14288,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 3,
-      "cost": 28,
+      "cost": 24,
       "text": "<b>ACTION:</b> Place a [scan] Token and an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
@@ -14351,7 +14351,7 @@
       "agility": 1,
       "hull": 4,
       "shields": 3,
-      "cost": 24,
+      "cost": 21,
       "text": "When attacking a ship with your Primary Weapon that has a larger Hull value and/or Primary Weapon value than your ship, gain +1 attack die.",
       "unique": true,
       "factions": [
@@ -14387,7 +14387,7 @@
       "agility": 2,
       "hull": 6,
       "shields": 3,
-      "cost": 30,
+      "cost": 27,
       "text": "If you reveal a 4 [forward] maneuver, immediately before you move, you may change it to a 4 Bank maneuver. Treat this as a Red Maneuver.",
       "unique": true,
       "factions": [
