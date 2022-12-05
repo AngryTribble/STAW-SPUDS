@@ -11349,7 +11349,7 @@
       "agility": 1,
       "hull": 5,
       "shields": 5,
-      "cost": 31,
+      "cost": 29,
       "text": "You may fire a Torpedo at an enemy ship without needing a Target Lock.  If you do so, place an Auxiliary Power Token beside your ship.",
       "unique": true,
       "factions": [
