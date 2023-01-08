@@ -23,7 +23,7 @@
 }
 
 body {
-	background: #eee;
+	background: #B8936C;
 	font-family: STAWAlternate;
 	font-size: 14px;
 	color: #333;
@@ -243,11 +243,11 @@ textarea {
 		width: 347px;
 		padding-left: 9px;
 	}
-	
+
 	.u-search-results.u-search-cols-0 {
 		margin-right: 0;
 	}
-	
+
 	.u-search-results.u-search-cols-1 {
 		width: 347px;
 	}
