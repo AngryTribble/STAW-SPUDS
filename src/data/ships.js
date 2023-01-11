@@ -4190,7 +4190,7 @@ module.exports = [
 		agility: 1,
 		hull: 5,
 		shields: 4,
-		cost: 28,
+		cost: 26,
 		text: "If you attack a ship that is in the forward firing arc of another friendly ship, you gain +1 attack die.",
 		unique: true,
 		factions: [
@@ -5150,7 +5150,7 @@ module.exports = [
 		agility: 1,
 		hull: 4,
 		shields: 3,
-		cost: 22,
+		cost: 20,
 		text: "You may perform an [evade] or a [scan] Action while there is an Auxiliary Power Token beside your ship.",
 		unique: true,
 		factions: [
@@ -6555,7 +6555,7 @@ module.exports = [
 		agility: 1,
 		hull: 5,
 		shields: 3,
-		cost: 26,
+		cost: 24,
 		text: "Each time you defend while Cloaked, roll +1 defense die.",
 		unique: true,
 		factions: [
@@ -12273,7 +12273,7 @@ module.exports = [
 		agility: 2,
 		hull: 6,
 		shields: 4,
-		cost: 30,
+		cost: 29,
 		text: "After you perform a Green Maneuver, you may immediately perform a [scan] Action as a free Action.",
 		unique: true,
 		factions: [
