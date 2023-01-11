@@ -1527,6 +1527,7 @@ module.exports = [
 		name: "Photonic Auto-Cannon",
 		text: "<b>ATTACK:</b> If this ship has a [scan] Token beside it, place 3 [time] Tokens on this card and target an opposing ship.\n\nConvert all [battlestations] into [hit].",
 		cost: 3,
+		OnePerShip: true,
 		attack: "5",
 		range: "2 - 3",
 		shipVulcan: true,
@@ -4091,7 +4092,7 @@ module.exports = [
 		name: "Tactical Station",
 		cost: 4,
 		text: "Add 1 [weapon] to this ships Upgrade Bar.\n-----------------------------\n<b>WHEN ATTACKING:</b> Disable this card.\nThis ship rolls +1 attack die this game round.\n-----------------------------\n<b>WHEN ATTACKING:</b> Discard this card.\nThis ship rolls +2 attack dice this game round.\n<b>( ERRATA )</b>",
-		unique: true,
+		OnePerShip: true,
 		factions: [
 			"federation"
 		]
